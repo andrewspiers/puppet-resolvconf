@@ -1,5 +1,5 @@
 {
-  "name":         "gdsoperations-resolvconf",
+  "name":         "andrewspiers-resolvconf",
   "version":      "0.3.4",
   "author":       "Government Digital Service",
   "license":      "MIT",
@@ -11,7 +11,7 @@
   "operatingsystem_support": [
     {
     "operatingsystem": "Ubuntu",
-    "operatingsystemrelease": ["12.04", "14.04"]
+    "operatingsystemrelease": ["12.04", "14.04", "16.04"]
     },
     {
     "operatingsystem": "Debian",
